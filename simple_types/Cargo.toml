@@ -1,0 +1,9 @@
+[package]
+name = "simple_types"
+version = "0.1.0"
+authors = ["Muhamad Irham Prasetyo <muhamad.prasetyo@get-ag.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
